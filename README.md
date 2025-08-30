@@ -11,7 +11,7 @@ A culturally-aware AI-powered mental wellness platform designed specifically for
 
 ---
 ## 🎯 Deployed at:
-![Link](https://un-cloud-india.vercel.app/)
+[Link](https://un-cloud-india.vercel.app/)
 
 ## 🎯 Inspiration
 
